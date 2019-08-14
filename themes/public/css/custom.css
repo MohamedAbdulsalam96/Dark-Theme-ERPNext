@@ -282,3 +282,24 @@ kbd {
 .-focus-{
     background-color: rgba(33, 33, 33, 1) !important;
 }
+/* print preview*/
+.print-preview-wrapper
+{
+    background-color: rgba(33, 33, 33, 1) !important;
+}
+.print-format
+{
+    background-color: rgba(33, 33, 33, 1) !important;
+
+}
+.print-format-th
+{
+    background-color: rgba(33, 33, 33, 1) !important;
+
+}
+
+/* module box on desk page*/
+.module-box
+{
+    background-color: rgba(33, 33, 33, 1) !important;
+}
