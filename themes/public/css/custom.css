@@ -96,6 +96,10 @@ a.grey, .sidebar-section a, .control-value a, .data-row a{
 .a, .module-section, .module-section-link {
     color: white !important;
 }
+.form-message.blue
+{
+    background-color: rgba(105, 105, 105, 1) !important;
+}
 .form-dashboard{
     background-color: rgba(66, 66, 66, 1) !important;
     color: white !important;
@@ -292,7 +296,7 @@ kbd {
     background-color: rgba(33, 33, 33, 1) !important;
 
 }
-.print-format-th
+.print-format th
 {
     background-color: rgba(33, 33, 33, 1) !important;
 
